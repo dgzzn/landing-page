@@ -1,6 +1,7 @@
 body {
     background-image: url('https://wallpapercave.com/wp/wp3572078.jpg');
     text-decoration: none;
+    background-size: cover;
 }
 
 .jumbotron {
