@@ -1,0 +1,17 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/wp3572078.jpg');
+    width: 100%
+}
+
+.jumbotron {
+    opacity: 90%;
+}
+
+.promos {
+    justify-content: center;
+}
+
+img {
+    width: 100px;
+    height: 300px;
+}
